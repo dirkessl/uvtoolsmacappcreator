@@ -3,6 +3,8 @@ Creates an macOS Application Bundle out of the UVTools release
 
 The App will be created beside the UVTools download
 
+You still need to install homebrew and dotnet
+
 Usage:
 
 download CreateMacApp.sh and uvtools.icns
